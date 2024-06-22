@@ -1,0 +1,3 @@
+/Users/yuvalanteby/Library/CloudStorage/OneDrive-Bar-IlanUniversity-Students/BIU/1st_year/Clion/ex_5/cmake-build-debug/CMakeFiles/ex_5.dir
+/Users/yuvalanteby/Library/CloudStorage/OneDrive-Bar-IlanUniversity-Students/BIU/1st_year/Clion/ex_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yuvalanteby/Library/CloudStorage/OneDrive-Bar-IlanUniversity-Students/BIU/1st_year/Clion/ex_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
