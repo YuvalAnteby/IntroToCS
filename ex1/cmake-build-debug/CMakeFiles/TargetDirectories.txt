@@ -1,0 +1,3 @@
+C:/Users/yuval/OneDrive - Bar-Ilan University - Students/BIU/1st year/Clion/ex1/cmake-build-debug/CMakeFiles/ex_1.c.dir
+C:/Users/yuval/OneDrive - Bar-Ilan University - Students/BIU/1st year/Clion/ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yuval/OneDrive - Bar-Ilan University - Students/BIU/1st year/Clion/ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
